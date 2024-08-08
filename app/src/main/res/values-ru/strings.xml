@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main -->
+    <string name="app_name">Помощник сценариста</string>
+    <string name="main_ideas">Идеи</string>
+    <string name="main_scenes">Сцены</string>
+    <string name="main_characters">Персонажи</string>
+    <string name="main_locations">Локации</string>
+
+    <!-- Fragments titles -->
+    <string name="notes">Записи</string>
+    <string name="note">Запись</string>
+    <string name="search_title">Поиск</string>
+
+    <!-- Buttons -->
+    <string name="create">Создать</string>
+    <string name="new_btn">Новая</string>
+    <string name="search">Поиск</string>
+    <string name="save">Сохранить</string>
+    <string name="remove">Удалить</string>
+
+    <!-- Sort spinner -->
+    <string name="sort_new">Новые</string>
+    <string name="sort_old">Старые</string>
+    <string name="sort_az">А-Я</string>
+    <string name="sort_za">Я-А</string>
+
+    <!-- Search spinner -->
+    <string name="title">Название/имя</string>
+    <string name="age">Возраст</string>
+    <string name="description">Описание</string>
+    <string name="history">Предыстория</string>
+    <string name="role">Роль</string>
+    <string name="scenes">Сцены</string>
+    <string name="characters">Персонажи</string>
+    <string name="locations">Локация</string>
+
+    <!-- Hints -->
+    <string name="title_hint">Введите название/имя</string>
+    <string name="text_hint">Введите текст здесь</string>
+    <string name="description_hint">Введите описание</string>
+    <string name="characters_hint">Введите персонажей</string>
+    <string name="locations_hint">Введите локации</string>
+    <string name="age_hint">Введите возраст</string>
+    <string name="history_hint">Введите предысторию</string>
+    <string name="role_hint">Введите роль</string>
+    <string name="scenes_hint">Введите сцены</string>
+    <string name="search_hint">Введите запрос</string>
+
+    <!-- Errors -->
+    <string name="smfWrong">Что-то пошло не так</string>
+
+</resources>

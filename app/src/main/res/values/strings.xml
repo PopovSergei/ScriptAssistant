@@ -1,0 +1,52 @@
+<resources>
+    <!-- Main -->
+    <string name="app_name">Script assistant</string>
+    <string name="main_ideas">Ideas</string>
+    <string name="main_scenes">Scenes</string>
+    <string name="main_characters">Characters</string>
+    <string name="main_locations">Locations</string>
+
+    <!-- Fragments titles -->
+    <string name="notes">Notes</string>
+    <string name="note">Note</string>
+    <string name="search_title">Search</string>
+
+    <!-- Buttons -->
+    <string name="create">Create</string>
+    <string name="new_btn">New</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <string name="remove">Remove</string>
+
+    <!-- Sort spinner -->
+    <string name="sort_new">New</string>
+    <string name="sort_old">Old</string>
+    <string name="sort_az">A-Z</string>
+    <string name="sort_za">Z-A</string>
+
+    <!-- Search spinner -->
+    <string name="title">Title/name</string>
+    <string name="age">Age</string>
+    <string name="description">Description</string>
+    <string name="history">History</string>
+    <string name="role">Role</string>
+    <string name="scenes">Scenes</string>
+    <string name="characters">Characters</string>
+    <string name="locations">Location</string>
+
+    <!-- Hints -->
+    <string name="title_hint">Enter title/name</string>
+    <string name="text_hint">Enter your text here</string>
+    <string name="description_hint">Enter description</string>
+    <string name="characters_hint">Enter characters</string>
+    <string name="locations_hint">Enter locations</string>
+    <string name="age_hint">Enter age</string>
+    <string name="history_hint">Enter history</string>
+    <string name="role_hint">Enter role</string>
+    <string name="scenes_hint">Enter scenes</string>
+    <string name="search_hint">Enter request</string>
+
+    <!-- Errors -->
+    <string name="smfWrong">Something went wrong</string>
+
+</resources>
